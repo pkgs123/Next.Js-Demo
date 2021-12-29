@@ -7,6 +7,7 @@ const News = ({news})=>{
         coolMsg:''
     })
 
+    
     const {text,coolMsg} = value;
     const handleChange = name=>e=>{
         // setSearchQuery(e.target.value);
