@@ -13,6 +13,7 @@ export default function Nav({ props }) {
           <Link href="/about">
             <a className="">About</a>
           </Link>
+        
         </li>
         <li>
           <Link href="/contact">
